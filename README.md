@@ -91,4 +91,4 @@ UTS Eventos es una solución integral para la gestión de eventos académicos, f
 
 ## 📜 Licencia
 
-UTS Eventos está licenciado bajo la [MIT License](LICENSE).
+UTS Eventos está licenciado bajo la [MIT License](LICENSE.txt).
